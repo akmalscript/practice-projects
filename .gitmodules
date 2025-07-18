@@ -1,3 +1,6 @@
 [submodule "01-php-login"]
 	path = 01-php-login
 	url = https://github.com/akmalscript/01-php-login
+[submodule "02-product-addition-form"]
+	path = 02-product-addition-form
+	url = https://github.com/akmalscript/02-product-addition-form
