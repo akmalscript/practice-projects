@@ -4,3 +4,6 @@
 [submodule "02-product-addition-form"]
 	path = 02-product-addition-form
 	url = https://github.com/akmalscript/02-product-addition-form
+[submodule "03-php-crud"]
+	path = 03-php-crud
+	url = https://github.com/akmalscript/03-php-crud
